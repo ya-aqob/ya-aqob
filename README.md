@@ -1,4 +1,4 @@
-Jacob Faucett '28
+Jacob Faucett '28\
 
-ECE & CS @ Cornell
-Electrical member @ CUAIR
+ECE & CS @ Cornell\
+Electrical member @ CUAIR\
